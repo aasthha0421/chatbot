@@ -6,8 +6,6 @@ History of chatbots dates back to 1966 when a computer program called ELIZA was 
 
 
 # Outline
-* [Motivation](#motivation)
-* [Blogpost](#blogpost)
 * [Pre-requisites](#pre-requisites)
 * [How to run](#how-to-run)
 
